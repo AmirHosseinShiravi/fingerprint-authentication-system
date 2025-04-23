@@ -1,0 +1,19 @@
+fix_database_schema.py
+fix_sqlite_vec.py
+
+*.pyc
+__pycache__/
+streamlit_app/__pycache__/
+training_model/__pycache__/
+
+# Ignore all files and folders in uploaded_fingerprints
+uploaded_fingerprints/
+uploaded_fingerprints/*
+
+# Ignore SQLite database files
+streamlit_app/*.db
+streamlit_app/*.sqlite
+streamlit_app/*.sqlite3
+
+
+training_model/advanced_cv_project_1_training_model_code_final.ipynb
