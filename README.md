@@ -142,10 +142,9 @@ The best performing model checkpoint is saved at `training_model/triplet_checkpo
     *   **All Users:** View registered users. Click "Edit" to modify details or manage fingerprints. Click "Delete" to remove a user.
 
 
-## ScreenShots
+## Screen Record
 
-1.  **Home Page:**
-    ![Home Page](/training_model/result_images/retrieval_performance_over_real_test_subset.png)
+https://raw.githubusercontent.com/AmirHosseinShiravi/fingerprint-authentication-system/main/screen_record/screen_record.webm?width=200&height=200
 
 <!-- ## Potential Improvements / Future Work
 
