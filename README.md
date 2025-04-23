@@ -144,7 +144,7 @@ The best performing model checkpoint is saved at `training_model/triplet_checkpo
 
 ## Screen Record
 
-https://raw.githubusercontent.com/AmirHosseinShiravi/fingerprint-authentication-system/main/screen_record/screen_record.webm?width=200&height=200
+[screen_record1.webm](https://github.com/user-attachments/assets/3edbef87-2c37-4868-ab56-9d8739df8ea3)
 
 <!-- ## Potential Improvements / Future Work
 
