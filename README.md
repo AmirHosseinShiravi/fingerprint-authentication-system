@@ -14,6 +14,11 @@ This project implements a fingerprint identification system (1:N matching) using
 *   **Manage Fingerprints:** Add new fingerprints or delete existing ones for a user via the edit page.
 *   **Robust Matching:** Thanks to the model trained on the SOCOFing dataset, the system can handle variations and alterations (easy, medium, hard) in fingerprint images.
 
+## Screen Record
+
+[screen_record1.webm](https://github.com/user-attachments/assets/3edbef87-2c37-4868-ab56-9d8739df8ea3)
+
+
 ## Dataset: SOCOFing
 
 The model was trained on the **SOCOFing (Sokoto Coventry Fingerprint Dataset)**. This dataset is particularly useful for training robust models because it includes:
@@ -141,10 +146,6 @@ The best performing model checkpoint is saved at `training_model/triplet_checkpo
     *   **Add User:** Fill in user details and optionally upload up to 5 fingerprint images.
     *   **All Users:** View registered users. Click "Edit" to modify details or manage fingerprints. Click "Delete" to remove a user.
 
-
-## Screen Record
-
-[screen_record1.webm](https://github.com/user-attachments/assets/3edbef87-2c37-4868-ab56-9d8739df8ea3)
 
 <!-- ## Potential Improvements / Future Work
 
